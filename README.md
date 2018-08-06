@@ -9,3 +9,10 @@ Note that the public code here is not in the final optimal version used either f
 * [`src_nogrd.py`](https://github.com/ThuongTNguyen/neural-network-demo/blob/master/src_nogrd.py): a module containing source codes for all functions used in the main training notebook.
 * `*.png`: supporting plots.
 
+## Requirements
+- Python 3.6
+- Keras 2.0.8
+- Numpy 1.12
+- Pandas 0.19
+- GPU (here Nvidia Tesla K40 or GeForce GTX 1080) with CUDNN v6
+
