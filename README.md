@@ -16,4 +16,7 @@ Note that the public code here is not in the final optimal version used either f
 - Pandas 0.19
 - GPU (here Nvidia Tesla K40 or GeForce GTX 1080) with CUDNN v6
 
-Copyright (c) 2018, Thuong T. Nguyen, Andreas W. Goetz, Andrea Zonca, Francesco Paesani
+## License
+This repo contains the code developed by Thuong Nguyen initially for the work published [here](https://aip.scitation.org/doi/10.1063/1.5024577) under the following license: 
+
+  Copyright (c) 2018, Thuong T. Nguyen, Andreas W. Goetz, Andrea Zonca, Francesco Paesani
